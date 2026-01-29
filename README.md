@@ -48,6 +48,8 @@
 - **Font Awesome** – Icons  
 - **Responsive Design** – Media queries for different screen sizes  
 
+[![GitHub stars](https://img.shields.io/github/stars/NazishRahmani/Organic-Store.github.io?style=for-the-badge)](https://github.com/NazishRahmani/Organic-Store.github.io/stargazers)
+
 
 
 
