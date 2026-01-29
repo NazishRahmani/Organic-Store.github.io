@@ -33,13 +33,13 @@
 </p>
 
 
-🚀 ## Quick Info
+## 🛠️ Technologies Used
 
-- 🔹 Type: Frontend Project
-- 🔹 Responsive: Yes
-- 🔹 Tech Stack : HTML5, CSS3
-- 🔹 Difficulty: Beginner → Intermediate
-- 🔹 Purpose: Learning & Portfolio
+- **HTML5** – Structure of the website  
+- **CSS3** – Styling and layout  
+- **Font Awesome** – Icons  
+- **Responsive Design** – Media queries for different screen sizes  
+
 
 
 
