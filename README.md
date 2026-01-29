@@ -1,3 +1,23 @@
+<p align="center">
+  <img src="screenshots/banner.png" alt="Organic Store Banner" width="100%">
+</p>
+
+<h1 align="center">🌿 Organic Store – Responsive Frontend Website</h1>
+
+<p align="center">
+  A modern, clean & responsive organic store landing page built with HTML & CSS
+</p>
+
+<p align="center">
+  <a href="#"><strong>Live Demo</strong></a> ·
+  <a href="#-project-preview"><strong>Screenshots</strong></a> ·
+  <a href="#-tech-stack"><strong>Tech Stack</strong></a>
+</p>
+
+
+
+
+
 # 🌿 Organic Store – Responsive Frontend Website
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,6 +47,7 @@ This project demonstrates clean UI design, structured layout, and responsive web
   <img src="screenshots/tablet.png" width="30%" alt="Tablet View">
   <img src="screenshots/mobile.png" width="18%" alt="Mobile View">
 </p>
+
 
 
 
