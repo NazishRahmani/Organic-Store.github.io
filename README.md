@@ -12,36 +12,14 @@ This project demonstrates clean UI design, structured layout, and responsive web
 
 ## 📸 Screenshots
 
-> *(Add screenshots after deployment)*
+### Desktop View
+![Desktop View](screenshots/desktop.png)
 
-```text
-/screenshots
- ├── desktop-view.png
- ├── tablet-view.png
- └── mobile-view.png
+### Tablet View
+![Tablet View](screenshots/tablet.png)
+
+### Mobile View
+![Mobile View](screenshots/mobile.png)
 
 
----
-
-## ✨ Features
-
-- ✅ Responsive navbar
-- 🛒 E-commerce style product cards
-- 🚚 Shipping & service highlights
-- 🌱 Organic product sections
-- ⭐ Customer review section
-- 🎯 Promotional offer banners
-- 📱 Fully responsive (Desktop, Tablet & Mobile)
-
----
-
-## 📂 Project Structure
-
-```bash
-Organic-Store/
-│
-├── index.html        # Main HTML file
-├── style.css         # Stylesheet
-├── images/           # Images and assets
-└── README.md         # Project documentation
 
