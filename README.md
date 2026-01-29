@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="screenshots/main.png" alt="Organic Store Banner" width="100%">
+  <img src="screenshots/banner.png" alt="Organic Store Banner" width="100%">
 </p>
 
 <h1 align="center">🌿 Organic Store – Responsive Frontend Website</h1>
@@ -38,4 +38,5 @@
 - 🔹 Tech Stack : HTML5, CSS3
 - 🔹 Difficulty: Beginner → Intermediate
 - 🔹 Purpose: Learning & Portfolio
+
 
