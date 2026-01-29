@@ -10,29 +10,24 @@ This project demonstrates clean UI design, structured layout, and responsive web
 
 ---
 
-## 📸 Screenshots
-### Main View
+## 📸 Project Preview
 
 <p align="center">
-  <img src="screenshots/main.png" width="80%">
+  <img src="screenshots/main.png" width="95%" alt="Organic Store Homepage">
 </p>
 
+<br>
 
-### Desktop View
 <p align="center">
-  <img src="screenshots/desktop.png" width="80%">
+  <b>Responsive Design</b>
 </p>
 
-
-### Tablet View
 <p align="center">
-  <img src="screenshots/tablet.png" width="70%">
+  <img src="screenshots/desktop.png" width="34%" alt="Desktop View">
+  <img src="screenshots/tablet.png" width="30%" alt="Tablet View">
+  <img src="screenshots/mobile.png" width="18%" alt="Mobile View">
 </p>
 
-### Mobile View
-<p align="center">
-  <img src="screenshots/mobile.png" width="50%">
-</p>
 
 
 
