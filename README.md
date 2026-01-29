@@ -14,6 +14,9 @@
   <a href="#-tech-stack"><strong>Tech Stack</strong></a>
 </p>
 
+
+
+
 ## 📸 Project Preview
 
 <p align="center">
@@ -33,12 +36,18 @@
 </p>
 
 
+<br>
+
+
+
+
 ## 🛠️ Technologies Used
 
 - **HTML5** – Structure of the website  
 - **CSS3** – Styling and layout  
 - **Font Awesome** – Icons  
 - **Responsive Design** – Media queries for different screen sizes  
+
 
 
 
