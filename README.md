@@ -11,7 +11,7 @@ This project demonstrates clean UI design, structured layout, and responsive web
 ---
 
 ## 📸 Screenshots
-### Desktop View
+### Main View
 
 <p align="center">
   <img src="screenshots/main.png" width="80%">
@@ -33,6 +33,7 @@ This project demonstrates clean UI design, structured layout, and responsive web
 <p align="center">
   <img src="screenshots/mobile.png" width="50%">
 </p>
+
 
 
 
