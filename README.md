@@ -46,9 +46,12 @@
 - **HTML5** – Structure of the website  
 - **CSS3** – Styling and layout  
 - **Font Awesome** – Icons  
-- **Responsive Design** – Media queries for different screen sizes  
+- **Responsive Design** – Media queries for different screen sizes
+
+  <br>
 
 [![GitHub stars](https://img.shields.io/github/stars/NazishRahmani/Organic-Store.github.io?style=for-the-badge)](https://github.com/NazishRahmani/Organic-Store.github.io/stargazers)
+
 
 
 
