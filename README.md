@@ -35,6 +35,7 @@
 
 - 🔹 Type: Frontend Project
 - 🔹 Responsive: Yes
-- 🔹 Tech: HTML5, CSS3
+- 🔹 ## Tech Stack : HTML5, CSS3
 - 🔹 Difficulty: Beginner → Intermediate
 - 🔹 Purpose: Learning & Portfolio
+
