@@ -1,29 +1,25 @@
-# 🌿 Organic Store Website
+# 🌿 Organic Store – Responsive Frontend Website
 
-A fully responsive **Organic Store landing page** built using **HTML5** and **CSS3**.  
-This project represents a modern e-commerce frontend design focused on organic and grocery products.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=for-the-badge)
 
----
-
-## 📌 Project Overview
-
-The **Organic Store Website** is a static frontend project that showcases:
-- Organic groceries
-- Fresh fruits & vegetables
-- Best-selling and trending products
-- Customer reviews
-- Promotional offers
-
-It is designed with a clean layout, smooth sections, and mobile responsiveness.
+A modern and fully responsive **Organic Store landing page** built using **HTML5** and **CSS3**.  
+This project demonstrates clean UI design, structured layout, and responsive web development principles.
 
 ---
 
-## 🛠️ Technologies Used
+## 📸 Screenshots
 
-- **HTML5** – Structure of the website  
-- **CSS3** – Styling and layout  
-- **Font Awesome** – Icons  
-- **Responsive Design** – Media queries for different screen sizes  
+> *(Add screenshots after deployment)*
+
+```text
+/screenshots
+ ├── desktop-view.png
+ ├── tablet-view.png
+ └── mobile-view.png
+
 
 ---
 
@@ -48,3 +44,4 @@ Organic-Store/
 ├── style.css         # Stylesheet
 ├── images/           # Images and assets
 └── README.md         # Project documentation
+
